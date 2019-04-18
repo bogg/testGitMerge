@@ -1,1 +1,3 @@
 # testGitMerge
+
+initial content
